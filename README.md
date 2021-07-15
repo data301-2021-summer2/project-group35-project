@@ -6,7 +6,7 @@ Milestone 1 - Find Dataset
 
 ## Describe your topic/interest in about 150-200 words
 
-{My topic is what car brands and models are the best quality. To further illaborate, what brands and cars will have the longest life time. This information is important to know for car buyers, so they can pick a relable manufacturer so theirs car's work as long as possible getting them the best bang for their buck! To do this, we will be looking at what cars drove the most miles on average, and how old each of these cars are. I hope to build a better understanding about what this vehicle data says about their manufacture's reliability, so I can choose to buy the best quality car.}
+{My topic is what car brands and models are the best quality in terms of longest lasting. To further illaborate, what brands and cars will have the longest life time. This information is important to know for car buyers, so they can pick a relable manufacturer so theirs car's work as long as possible before they have to buy a new vehicle. To do this, we will be looking at what cars drove the most miles on average, and how old each of these cars are. I hope to build a better understanding about what this vehicle data says about their manufacture's reliability and longevity, so others and myself can choose to buy the best quality car.}
 
 ## Describe your dataset in about 150-200 words
 
