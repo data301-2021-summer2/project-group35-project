@@ -1,2 +1,2 @@
 # Data
-This contains raw and processed date.
+This contains raw and processed data.
