@@ -1,0 +1,1 @@
+File for images used in the completion of this project.

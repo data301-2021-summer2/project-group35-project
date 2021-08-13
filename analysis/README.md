@@ -1,2 +1,7 @@
+Steven's Analysis of Dataframe and Company, 
 
-Members file, and CODE OF CONDUCT
+
+This file includes:
+
+Code of conduct and the Analysis component for Task 4 of Milestone 2
+
