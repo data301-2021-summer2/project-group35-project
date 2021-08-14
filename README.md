@@ -21,3 +21,6 @@ Milestone 1 - Find Dataset
 {https://www.auctionexport.com/
 
 https://www.kaggle.com/doaaalsenani/usa-cers-dataset}
+
+## Link to Milestone 4 Explainer Video: 
+[Click here](https://vimeo.com/587248238/41ffe6ed33).
